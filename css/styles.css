@@ -1,0 +1,7 @@
+.backgound{
+    background-image:linear-gradient( rgba(0, 0, 0, 0.438) 0%, rgba(0, 0, 0, 0.438) 0%, rgba(0, 0, 0, 0.438) 0%, rgba(0, 0, 0, 0.438) 100%), url("../img/fondo.png");
+}
+.backgound2{
+    background-image:linear-gradient( rgba(0, 0, 0, 0.438) 0%, rgba(0, 0, 0, 0.438) 0%, rgba(62, 0, 65, 0.438) 0%, rgba(50, 0, 70, 0.438) 100%), url("../img/fondo2.png");
+    background-attachment: fixed;
+}
